@@ -1,0 +1,158 @@
+/* Reset */
+*{
+margin:0;
+padding:0;
+}
+ 
+ 
+/* wrapper 200 0*/
+.wrapper{
+margin: 0 auto;
+padding:200px 0 700px 0;
+width: 700px;
+}
+ 
+ 
+/* Container 1 */
+ 
+#container-1{
+	background-color: #47DDDa;
+}
+
+#container-1 h1{
+	font: normal 100px 'Nanum Brush Script', cursive;
+	color:#fb2448;
+	text-align: justify;
+}
+ 
+#container-1 h2{
+	font: normal 35px 'Tinos', serif;
+	color:#f5f810;
+	text-align:justify;
+}
+ 
+#container-1 p{
+	font-family:'Tinos';
+	text-align:justify;
+	width:30%;
+	padding-top: 10px;
+}
+ 
+#container-1 a{
+}
+ 
+#container-1 a:hover{
+}
+
+
+/* Container 2 */
+ 
+#container-2{
+	background-color: #2efa19;
+}
+
+#container-2 h1{
+	padding:0px;
+	text-align: left;
+	font: italic normal 90px 'Paytone One', sans-serif;
+}
+ 
+#container-2 h2{
+	padding:0px 40px;
+	text-align:center;
+	font: italic normal 40px 'Paytone One', sans-serif;	
+	color:#fb2448;
+}
+ 
+#container-2 p{
+	padding:0px 80px ;
+	text-align:center;
+	font: normal 25px 'Ubuntu', sans-serif;
+}
+
+.estate::first-letter {
+    font:italic normal 80px 'Paytone One', sans-serif;
+    color: #f5f810;
+	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+}
+ 
+#container-2 a{
+	font-size:15px;
+}
+ 
+#container-2 a:hover{
+}
+
+/* Container 3 */
+ 
+#container-3{
+	background-color:#f5f72b ;
+}
+
+#container-3 h1{
+	font: bold 45px 'Kameron', serif;
+	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+	color:#19d8c8;
+	text-align:center;
+}
+ 
+#container-3 h2{
+	font: bold 35px 'Libre Baskerville', serif;
+	color:#f594d8;
+	text-align:center;
+	padding: 15px 0px;
+}
+ 
+#container-3 p{
+	font: 15px 'Libre Baskerville', serif;
+	text-align:center;
+	border-top: 5px black solid;
+}
+
+ 
+#container-3 a{
+}
+ 
+#container-3 a:hover{
+}
+
+/* Container 4 */
+ 
+#container-4{
+	background-color:#f6b27b;
+	padding:0px;
+}
+#container-4 h1, #container-4 h2, #container-4 p{
+	float:left;
+
+}
+
+#container-4 h1{
+	font:bold 40px 'Bree Serif', serif;
+	text-shadow: -1px 0 #19d8c8, 0 1px #19d8c8, 1px 0 #19d8c8, 0 -1px #19d8c8;
+	color:#000;
+	border-right: 5px #000 solid;
+	line-height:250px;
+	text-align:center;
+}
+ 
+#container-4 h2{
+	font: bold 20px 'PT Sans', sans-serif;
+	color:#f594d8;
+	text-align:center;
+	padding-left: 10px;
+	background-color:#000;
+}
+ 
+#container-4 p{
+	font:15px 'PT Sans', sans-serif;
+	width:300px;
+	height:300px;
+	padding: 10px;
+}
+ 
+#container-4 a{
+}
+ 
+#container-4 a:hover{
+}
